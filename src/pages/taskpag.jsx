@@ -9,7 +9,7 @@ function TaskPage() {
   return (
     <div className="w-screen h-screen bg-gray-800 flex justify-center p-6">
       <div className="w-screen h-screen bg-gray-800 flex justify-center p-6">
-        <div className="w-[500px]">
+        <div className="w-[500px] ms-auto">
           <div className="flex justify-center">
             <button
               onClick={() => navigate(-1)}

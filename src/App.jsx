@@ -87,7 +87,7 @@ function App() {
 
   return (
     <div className="w-screen h-screen bg-gray-800 flex justify-center p-6">
-      <div className="w-[500px]">
+      <div className="w-[500px] mx-auto">
         <h1 className="text-3xl text-indigo-300 font-bold text-center">
           Gerenciador de Tarefas
         </h1>
